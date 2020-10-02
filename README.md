@@ -18,7 +18,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="app/src/main/res/raw/flixster.gif" width=250><br>
 
 ### Notes
 I encountered a problem where the emulator wasn't rotating the contents even though I rotated the phone itself. 
